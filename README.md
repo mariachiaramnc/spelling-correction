@@ -1,2 +1,2 @@
-# spelling-correction
-Project for algoorithms course (A. Y. 2024-25)
+# Spelling correction
+Python implementation of Peter Norvig's algorithm and Wolf Garbe's SymSpell algorithm to perform single-word spelling correction. 
